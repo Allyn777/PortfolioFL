@@ -381,6 +381,15 @@ h1.mb-5 {
 }
 
 .card-body {
-    background: whitesmoke;
+    background: black;
     font-size: 50px;
+    color: white;
+    border-left: solid 3px whitesmoke;
+    border-top: solid 1px whitesmoke;
+}
+
+#services .card-text {
+    color: white;
+    font-size: 0.9rem;
+    
 }
